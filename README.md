@@ -1,1 +1,2 @@
-# pongGame
+# synchronousBallMovement
+Ball moving synchronously
